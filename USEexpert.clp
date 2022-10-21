@@ -92,7 +92,7 @@
   (question (ident suicidal) (type yes-no)
             (text "Are you suicidal?"))
   (question (ident aca-stress) (type yes-no)
-            (text "Do you academic stress?"))
+            (text "Do you have academic stress?"))
   (question (ident gpa) (type number)
             (text "What is your GPA?"))
   (question (ident perform-friends) (type yes-no)
@@ -429,7 +429,7 @@
   (not (solution-given yes))
   =>
   (assert (recommendation
-           (solution "Consult a real counselor")
+           (solution "Consult a real counsellor")
            (explanation "I cannot help you")))
 )
 
