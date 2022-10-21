@@ -4,13 +4,9 @@ This is an expert system that helps an undergraduate student find a solution to 
 
 This expert system is developed for the university undergraduate course module _Logic Programming & Artificial Cognitive Systems_ at University of Moratuwa, Sri Lanka.
 
-## 🚧 UNDER ACTIVE DEVELOPMENT
-
-- This project is currently under active development. Source will be available soon.
-
 ## Features
 
-- Forward chaining-based rule system
+- Question-driven using forward chaining
 - User-friendly graphical user interface (GUI)
 - Explanations for conclusions
 - Multiple alternate solutions
@@ -66,3 +62,9 @@ To run the program locally, execute
 ## License
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+## Disclaimer
+
+This app ("Undergraduate Stress Expert") provides only information, is not medical or treatment advice and may not be treated as such by the user. As such, this App may not be relied upon for the purposes of medical diagnosis or as a recommendation for medical care or treatment.
+
+The information on this App is not a substitute for professional medical advice, diagnosis or treatment. All content, including text, graphics, images and information, contained on or available through this App is for general information and educational purposes only
