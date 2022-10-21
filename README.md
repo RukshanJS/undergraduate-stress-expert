@@ -51,7 +51,7 @@ To run the program locally, execute
 - Using JESS CLI (any OS),
 
   ```bash
-  java jess.Main es.clp
+  java jess.Main USEexpert.clp
   ```
 
 ## Authors
